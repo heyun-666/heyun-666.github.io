@@ -3,11 +3,11 @@
   <title>π黄瓜的博客</title>
   
   
-  <link href="https://github.com/heyun-666/heyun-666.github.io/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://github.com/heyun-666/heyun-666.github.io/"/>
+  <link href="http://example.com/"/>
   <updated>2021-12-04T13:07:58.468Z</updated>
-  <id>https://github.com/heyun-666/heyun-666.github.io/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>π黄瓜</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>python</title>
-    <link href="https://github.com/heyun-666/heyun-666.github.io/2021/12/04/title/"/>
-    <id>https://github.com/heyun-666/heyun-666.github.io/2021/12/04/title/</id>
+    <link href="http://example.com/2021/12/04/title/"/>
+    <id>http://example.com/2021/12/04/title/</id>
     <published>2021-12-04T12:31:37.000Z</published>
     <updated>2021-12-04T13:07:58.468Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/heyun-666/heyun-666.github.io/2021/11/30/hello-world/"/>
-    <id>https://github.com/heyun-666/heyun-666.github.io/2021/11/30/hello-world/</id>
+    <link href="http://example.com/2021/11/30/hello-world/"/>
+    <id>http://example.com/2021/11/30/hello-world/</id>
     <published>2021-11-30T11:20:19.540Z</published>
     <updated>2021-12-04T13:07:57.542Z</updated>
     
